@@ -1,5 +1,5 @@
 <h1>Welcome to the Color Guessing game!</h1>
-<p>This small game was made using HTML/CSS/JavaScript and focuses on working with selecting and manipulating the DOM elements, and also working with event listeners</p>
+<p>This small game was made using HTML/CSS/JavaScript and focuses on working with selecting and manipulating the DOM, and also working with event listeners</p>
 <p>All you need  to do is to try to guess the rgb color displayed at the top of the page.</p>
 <p>If you make an incorrect choice, the figure disappears, otherwise, all the figures turn to the guessed color.</p>
 <p> This game also has 2 difficulties (Easy and Hard).
